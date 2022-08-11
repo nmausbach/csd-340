@@ -1,9 +1,8 @@
 # csd-340
 HTML &amp; CSS
-# CSD 340 Web Development with HTML and CSS
-## Contributors
-..* Instructor Sue Sampson
-..* Author Nathan Mausbach
+<h1>CSD 340 Web Development with HTML and CSS</h1>
+<h2>Contributors</h2>
+
 <body>
 <ul>
     <li>Instructor Sue Sampson</li>

@@ -1,0 +1,60 @@
+h1 {
+    font-family: Oswald, Verdana, Arial, sans-serif;
+    text-align: center;
+}
+
+h3 {
+    font-weight: 500;
+}
+
+li {
+    font-weight: 300;
+}
+
+ol {
+    margin-left: 10px;
+}
+
+ul {
+    margin-left: 10px;
+    list-style-type: upper-roman;
+}
+
+#leftdiv {
+    font-family: Oswald, Verdana, Arial, sans-serif;
+    width: 45%;
+    float: left;
+    border: 1px;
+    padding: 10px;
+    border-style: solid;
+    border-color: red;
+    border-radius: 15px;
+}
+
+#rightdiv {
+    font-family: Oswald, Verdana, Arial, sans-serif;
+    width: 45%;
+    float: right;
+    border: 1px;
+    border-style: dashed;
+    border-radius: 15px;
+    border-color: red;
+    padding: 10px;
+    list-style-type: upper-roman;
+}
+
+#lastdiv {
+    width: 100%;
+    margin-top: 60%;
+    font-family: Oswald, Verdana, Arial, sans-serif;
+    float: right;
+    margin-bottom: 20px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    }

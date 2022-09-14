@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        
+        <title>Nathan Mausbach's CSD 340 Landing Page</title>
         <link rel="stylesheet" type="text/css" href="site.css"/>
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

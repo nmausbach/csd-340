@@ -1,37 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <title>Nathan Mausbach's CSD 340 Landing Page</title>
-        <link rel="stylesheet" type="text/css" href="site.css"/>
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;500;700&family=Quattrocento:wght@400;700&display=swap" rel="stylesheet">
-    </head>
-    <body>
-        <div id="container">
-            <h1>Nathan Mausbach's Landing Page</h1>
-            <h2>CSD 340 Web Development with HTML and CSS</h2>
-            <hr>
-            <h3>Module Assignments</h3>
-            <ul>
-                <li><a href=../Module-2/Mausbach_EX1.html>Assignment 2.2</a></li>
-                <li><a href=../Module-3/Mausbach_EX2.html>Assignment 3.2</a></li>
-                <li><a href=../Module-4/Mausbach_EX3.html>Assignment 4.3</a></li>
-                <li><a href=../Module-5/Mausbach_EX4.html>Assignment 5.2</a></li>
-                <li><a href=../Module-7/Mausbach_Mod7_2.html>Assignment 5.2</a></li>
-            </ul>
-            <h3>Projects</h3>
-            <ul>
-                <li><a href=”#”>bioSite Project Home Page</a></li>
-                <li><a href=”#”>Final Exam</a></li>
-            </ul>
-            <h4>Important Links</h4>
-            <ul>
-                <li><a href="https://validator.w3.org/">W3C HTML Validator</a></li>
-                <li><a href="http://jigsaw.w3.org/css-validator/">W3C CSS Validator</a></li>
-                <li><a href="https://www.w3schools.com/html/">HTML Tutorial</a></li>
-                <li><a href="https://bruinconnect.bellevue.edu/">BRUIN Connect</a></li>
-            </ul>
-        </div>
-    </body>
-</html>
+# csd-340
+HTML &amp; CSS
+<h1>CSD 340 Web Development with HTML and CSS</h1>
+<h2>Contributors</h2>
+
+<body>
+<ul>
+    <li>Instructor Sue Sampson</li>
+    <li>Author Nathan Mausbach</li>
+</ul>
+</body>

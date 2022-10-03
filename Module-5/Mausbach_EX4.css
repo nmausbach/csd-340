@@ -1,0 +1,84 @@
+#container {
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+}
+
+#leftdiv {
+    padding: 15px;
+    margin-left: 5%;
+    width: 25%;
+    float: left;
+    border: 1px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: rgb(185, 63, 8);
+}
+
+#centerdiv {
+    padding: 15px;
+    float: left;
+    width: 25%;
+    border: 1px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: rgb(185, 63, 8);
+}
+
+#rightdiv {
+    padding: 15px;
+    width: 25%;
+    float: left;
+    border: 1px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: rgb(185, 63, 8);
+}
+
+#image-gallery {
+    margin-top: 10%;
+}
+
+h1 {
+    font-family: Oswald, Verdana, Arial, sans-serif;
+    font-weight: 400;
+    text-align: center;
+    background-color: rgb(185, 63, 8);
+}
+
+img {
+    /*change width from 400 to auto to look better*/
+    width: auto;
+    height: 350px;
+}
+
+h3 {
+    font-family: Oswald, Verdana, Arial, sans-serif;
+    font-weight: 400;
+    text-align: center;
+    background-color: rgb(185, 63, 8);
+
+}
+
+figure {
+    font-family: Oswald, Verdana, Arial, sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+
+figcaption {
+    font-style: italic;
+    font-size: .75em;
+}
+
+body {
+    background-color: rgba(247, 112, 24, 0.2);
+}
+
+#lastdiv {
+    width: 100%;
+    margin-top: 5%;
+    font-family: Oswald, Verdana, Arial, sans-serif;
+    float: right;
+    margin-bottom: 20px;
+}

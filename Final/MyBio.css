@@ -1,0 +1,146 @@
+body {
+    margin: 0;
+    font-family: Oswald, Quattrocento, Arial, sans-serif;
+    background-color: teal;
+}
+
+header {
+    font-family: Oswald, Quattrocento, Arial, sans-serif;
+    background-color: teal;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-weight: 400;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: #bd9c2f;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#me {
+    width: 35%;
+    margin: auto;
+}
+
+#container {
+    margin: 10px;
+    text-align: center;
+    border: 5px solid black;
+}
+
+#container2 {
+    margin: auto;
+    text-align: left;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+.sectiontitle {
+    text-decoration: underline;
+    font-size: larger;
+}
+
+.hobbies {
+    text-align: center;
+    display: grid;
+    margin: auto;
+    grid-template-columns: 33% 33% 33%;
+    padding: 10px;
+}
+
+.experience {
+    text-align: center;
+    display: grid;
+    margin: auto;
+    grid-template-columns: 33% 33% 33%;
+    padding: 10px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 95%;
+    border: 1px solid black;
+    margin: 10px;
+    background-color: rgb(189, 186, 186);
+}
+
+.card-title {
+    text-align: center;
+    font-size: 2em;
+    color: black;
+    font-weight: 400;
+}
+
+.card-content{
+    padding: 2px 16px;
+}
+
+.btn-primary {
+    background-color: grey;
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: grey;
+    color: black;
+}
+
+img {
+    width: 90%;
+    height: 480px;
+    border: 2px solid black;
+}
+
+.btn {
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    padding: 15px 32px;
+    color: black;
+    background-color: grey;
+}
+
+.input {
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: solid 1px black;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+
+.submit:hover {
+    background-color: #dcb937;
+    color: black;
+}
+
+.form {
+    display: inline-grid;
+    grid-template-columns: auto;
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+
+footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+footer span {
+    float: left;
+    color: black;
+    padding-left: 10px;
+}
